@@ -17,6 +17,7 @@ CHALLENGE 2: Make it so that the user can return their books with a "return" com
 /* -------------------- PLANNING -------------------- 
 
 Command = register book (function RegisterBook)
+
 libraryCard
   if borrow -> toggle (function ToggleBorrow)
       false -> denied
